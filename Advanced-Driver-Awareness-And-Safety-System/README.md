@@ -102,7 +102,7 @@ According to **Figure 1 (Page 8)**, the system integrates:
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 Possible Future Improvements
 - Lane detection & collision avoidance  
 - GPS + GSM-based live tracking  
 - Cloud dashboard  
