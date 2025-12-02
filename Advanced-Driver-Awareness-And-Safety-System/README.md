@@ -112,9 +112,9 @@ According to **Figure 1 (Page 8)**, the system integrates:
 ---
 
 ## 👥 Team
-- **Snehanshu Gunjal**  
+- **Snehanshu Gunjal**
+- Hiba Ashekhan   
 - Sourabh Pawar  
-- Suchitkumar Khadakabhavi  
-- Hiba Ashekhan  
+- Suchitkumar Khadakabhavi   
 
 Guide: **Dr. Arun Tigadi**  
