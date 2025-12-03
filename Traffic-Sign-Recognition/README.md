@@ -9,14 +9,15 @@ Traffic Sign Recognition (TSR) is critical in modern transportation systems, adv
 
 This project uses a **10-layer CNN architecture** to classify 43 different traffic sign classes from the **German Traffic Sign Recognition Benchmark (GTSRB)** dataset.  
 
-✔ Achieved **98.8%** test accuracy in experimentation
+✔ Achieved **98.8%** test accuracy in experimentation  
+
 ✔ Achieved **99% accuracy for static GUI-based predictions**
 
 ---
 
 ## 🗂 Dataset  
 The model uses the **GTSRB dataset**, containing 43 classes of real-world traffic signs.  
-According to *Figure 1 (Page 4)*, the dataset features a balanced distribution of traffic sign categories.  
+The dataset features a balanced distribution of traffic sign categories.  
 
 Key steps:
 - Resize images to **30×30×3** pixels  
@@ -48,7 +49,6 @@ The proposed architecture consists of:
 
 ## ⚙ Training Configuration  
 The model uses: 
-
 - **Loss function:** Categorical Crossentropy  
 - **Optimizer:** Adam (LR = 0.001 with decay)  
 - **Batch size:** 32  
@@ -66,15 +66,13 @@ Evaluation includes:
 - Confusion matrix  
 - Per-class precision, recall, F1-score  
 
-A full classification report is shown in :  
+A full classification report contains:  
 ✔ Weighted accuracy: **99%**  
 ✔ Macro average: **98%**  
 
 ---
 
-## 📊 Results  
-According to the *Results Section : 
-
+## 📊 Results   
 - Achieved **99% accuracy** for static image predictions  
 - Strong robustness across lighting, weather variations, and partial occlusions  
 - Accurate classification across 43 categories  
