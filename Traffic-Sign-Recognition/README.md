@@ -78,6 +78,15 @@ A full classification report contains:
 - Accurate classification across 43 categories  
 - Demonstrated potential for real-time use
 
+## ▶️ Deployment (Streamlit App)
+
+To launch the Traffic Sign Recognition interface using Streamlit, download the `tsr_app.py` file provided in the repository and run the following command in the project directory:
+
+```bash
+streamlit run tsr_app.py
+```
+Make sure you have Streamlit and the required dependencies installed on your system before running the application.
+
 
 ---
 
